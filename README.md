@@ -18,4 +18,4 @@
 
 ⌘ **Interested? Let's Connect**
 - [Linkedln](https://www.linkedin.com/in/1kellygao/)
-- [Email](kelly.gao.2516@gmail.com)
+- [Email](mailto:kelly.gao.2516@gmail.com)
