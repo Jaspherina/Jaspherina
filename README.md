@@ -1,9 +1,10 @@
-## Hi there, I'm Kelly👋
+## Hi there, I'm Kelly 🌌
 
-⌬ **Who am I?** 
-- 🎒 Cybersecurity-Focused student, still learning about the cyberworld
+⌬ **About Me** 
+- 🎒 A passionate cybersecurity-focused student, still learning about the cyberworld
 - 🎮 I like to play games, watch c-drama/k-drama, chill
 - 🍜 I love ramen noodles
+- 🔒 Interested in Cybersecurity, IT, hacking 
 
 ⌁ **What am I currently working on?** 
 - 💻 Exploring and learning more about SQLi (Vulnerability Attack)
