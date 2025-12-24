@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Kelly👋
 
-<!--
-**Jaspherina/Jaspherina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⌬ **Who am I?** 
+- 🎒 Cybersecurity-Focused student, still learning about the cyberworld
+- 🎮 I like to play games, watch c-drama/k-drama, chill
+- 🍜 I love ramen noodles
 
-Here are some ideas to get you started:
+⌁ **What am I currently working on?** 
+- 💻 Exploring and learning more about SQLi (Vulnerability Attack)
+- 🕹️ Experimenting with safe cybersecurity lab environments (TryHackMe, HackerOne, CTFs, etc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⌂ **Tools** 
+- **Languages**: Java, SQL, Python, PHP, HTML, CSS 
+- **Frameworks**: Currently haven't explored yet, but will
+- **Software**: XAMPP, VSCode, DaVinci Resolve
+- **Cloud Tools**: Google Workspace, Microsoft Office Suite
+
+⌘ **Interested? Let's Connect**
+- [Linkedln](https://www.linkedin.com/in/1kellygao/)
+- [Email](kelly.gao.2516@gmail.com)
