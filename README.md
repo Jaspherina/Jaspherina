@@ -4,11 +4,12 @@
 - 🎒 A passionate cybersecurity-focused student, still learning about the cyberworld
 - 🎮 I like to play games, watch c-drama/k-drama, chill
 - 🍜 I love ramen noodles
-- 🔒 Interested in Cybersecurity, IT, hacking 
+- 🔒 Interested in Risk management, compliance-driven prevention, and control analysis  
 
 ⌁ **What am I currently working on?** 
-- 💻 Exploring and learning more about SQLi (Vulnerability Attack)
-- 🕹️ Experimenting with safe cybersecurity lab environments (TryHackMe, HackerOne, CTFs, etc)
+- 💻 Developing foundational skills in Governance, Risk, and Compliance (GRC) 
+- 🕹️ Exploring secure systems and defensive security concepts
+- 🏆 Projects under Risk Assessment & Control Mapping 
 
 ⌂ **Tools** 
 - **Languages**: Java, SQL, Python, PHP, HTML, CSS 
