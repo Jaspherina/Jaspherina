@@ -13,7 +13,7 @@
 
 ⌂ **Tools** 
 - **Languages**: Java, SQL, Python, PHP, HTML, CSS 
-- **Frameworks**: NIST CSF, ISO 27001/27002, COBIT, GDPR, HCPPA, CCPA, HIPAA   
+- **Frameworks**: NIST CSF, OWASP TOP 10, ISO 27001/27002, COBIT, GDPR, HCPPA, CCPA, HIPAA   
 - **Software**: XAMPP, VSCode, DaVinci Resolve
 - **Cloud Tools**: Google Workspace, Microsoft Office Suite
 
