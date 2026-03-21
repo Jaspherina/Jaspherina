@@ -12,8 +12,8 @@
 - 🏆 Projects under Risk Assessment & Control Mapping 
 
 ⌂ **Tools** 
-- **Languages**: Java, SQL, Python, PHP, HTML, CSS 
-- **Frameworks**: NIST CSF, OWASP TOP 10, ISO 27001/27002, COBIT, GDPR, HCPPA, CCPA, HIPAA   
+- **Languages**: Java, SQL, C  
+- **Frameworks**: NIST CSF, GDPR, HIPAA, SOC 2, NIST 800-39, PCI-DSS, fedRAMP, SOX, ISO 27001, ISO 27701     
 - **Software**: XAMPP, VSCode, DaVinci Resolve
 - **Cloud Tools**: Google Workspace, Microsoft Office Suite
 
