@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323+Code&duration=2500&size=32&pause=1000&color=81E2F2&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Kelly+%F0%9F%8C%8C;Cybersecurity+student+%F0%9F%8E%92;Future+GRC+analyst+%E2%9C%A6;Risk+%C2%B7+Compliance+%C2%B7+Controls" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323+Code&duration=2500&size=25&pause=1000&color=81E2F2&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Kelly+%F0%9F%8C%8C;Cybersecurity+student+%F0%9F%8E%92;Future+GRC+analyst+%E2%9C%A6;Risk+%C2%B7+Compliance+%C2%B7+Controls" alt="Typing intro" />
 
 <sub>🔒 governance · risk · compliance &nbsp;|&nbsp; 🍜 powered by noodles & ramen &nbsp;|&nbsp; 🎮 gamer at heart</sub>
 
